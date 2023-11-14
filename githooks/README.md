@@ -1,2 +1,0 @@
-# githooks
-Collection of githooks
